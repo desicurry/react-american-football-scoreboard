@@ -115,8 +115,13 @@
 
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
+.homeButtons_extraPoint,
+.homeButtons_twoPoints,
 .awayButtons__touchdown,
-.awayButtons__fieldGoal {
+.awayButtons__fieldGoal,
+.awayButtons_extraPoint,
+.awayButtons_twoPoints {
   margin: 1rem;
   border-radius: 4px;
 }
+
